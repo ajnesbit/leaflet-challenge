@@ -8,10 +8,8 @@ These instructions will allow you to view the interactive map on your own web br
 
 ## Prerequisites
 
-A copy of the repo on your machine.
-
 ```
-Give examples
+Download a copy of the repo to your machine
 ```
 
 ## Running file
