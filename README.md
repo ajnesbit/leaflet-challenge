@@ -1,3 +1,3 @@
-# Leaflet - North America Earthquake Data
+# Leaflet - North American Earthquake Data
 
 
