@@ -15,7 +15,7 @@ Download a copy of the repo to your machine
 ## Running file
 Right click on index.html once downloaded to your machine, and open the file. It will open your default web browser.
 
-## Built With
+## Built with
 
 * [USGS](https://earthquake.usgs.gov/) - Earthquake data source
 * [GeoJSON](https://github.com/fraxen/tectonicplates) - Tectonic plate data source
