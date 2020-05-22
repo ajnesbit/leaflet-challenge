@@ -1,6 +1,8 @@
 # Leaflet - North American Earthquake Data
 
-![1-Logo](Images/1-Logo.png)
+## Objective
+
+The goal of this project is to visualize the locations and magnitude of earthquakes in North America to better understand where these events most commonly take place.
 
 ## Getting Started
 
